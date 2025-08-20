@@ -1,0 +1,16 @@
+public class SubtractTwoDigits {
+
+    public static void main(String[] args) {
+        // Declare and initialize two integer variables
+        int digit1 = 7;
+        int digit2 = 3;
+
+        // Perform subtraction
+        int difference = digit1 - digit2;
+
+        // Print the result
+        System.out.println("The first digit is: " + digit1);
+        System.out.println("The second digit is: " + digit2);
+        System.out.println("The difference is: " + difference);
+    }
+}
